@@ -1,0 +1,3 @@
+include LICENSE README.md pytest.ini
+recursive-include tests *.py *.md
+include tests/fixtures/good/watch/.env
